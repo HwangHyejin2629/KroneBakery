@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KroneBakery/static/css/main.e74bfeeb.css",
-    "main.js": "/KroneBakery/static/js/main.42037c16.js",
+    "main.js": "/KroneBakery/static/js/main.9e5f9478.js",
     "static/js/488.0f0e8336.chunk.js": "/KroneBakery/static/js/488.0f0e8336.chunk.js",
     "static/media/brand2.jpg": "/KroneBakery/static/media/brand2.1795c08d8431fcbbedd6.jpg",
     "static/media/brand1.jpg": "/KroneBakery/static/media/brand1.7d4ab8093c5d77ba33ee.jpg",
@@ -47,11 +47,11 @@
     "static/media/lnstar.svg": "/KroneBakery/static/media/lnstar.d30e7f24fae9f09c19b2b364a02b9005.svg",
     "static/media/naver.svg": "/KroneBakery/static/media/naver.ab938a63604243195f81db3912f1d812.svg",
     "main.e74bfeeb.css.map": "/KroneBakery/static/css/main.e74bfeeb.css.map",
-    "main.42037c16.js.map": "/KroneBakery/static/js/main.42037c16.js.map",
+    "main.9e5f9478.js.map": "/KroneBakery/static/js/main.9e5f9478.js.map",
     "488.0f0e8336.chunk.js.map": "/KroneBakery/static/js/488.0f0e8336.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e74bfeeb.css",
-    "static/js/main.42037c16.js"
+    "static/js/main.9e5f9478.js"
   ]
 }
